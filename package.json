@@ -1,7 +1,7 @@
 {
   "name": "torneo-internacional-de-joropo",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://mauroperez21.github.io/torneo-internacional/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
