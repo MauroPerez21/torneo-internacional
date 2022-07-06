@@ -1,0 +1,8 @@
+@import url('./Table.styles.css');
+gMap{
+    
+    max-width: 100%;
+    margin:0 auto;
+    overflow: auto;
+    padding: 0 24px;
+}

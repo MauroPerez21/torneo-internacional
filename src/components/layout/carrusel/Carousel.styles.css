@@ -1,0 +1,107 @@
+.slider-container{
+    position: relative;
+    max-width: 100%;
+    margin:0 auto;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding:6px 12px;
+}
+.slider-header{
+    background: var(--color-gray);
+    padding:12px 6px;
+    width:100%;
+    text-align: center;
+}
+.slider-header h3{
+    color:var(--color-pearl);
+    font-weight: bolder;
+    line-height: 2rem;
+    letter-spacing: 0.5em;
+    
+}
+.slider-body{
+    margin:2rem 4rem;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+.slider-body h2{
+    font-weight: bolder;
+    text-transform: capitalize;
+    line-height: 2rem;
+    text-align: center;
+}
+.slider-body h3{
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+.slider-icon{
+    margin:2rem 4rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.slider-list{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+.slider-list h4{
+    font-size: 28px;
+    text-transform: capitalize;
+
+}
+.slider-footer{
+   background: var(--color-gray); 
+   width:100%;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-evenly;
+   padding: 6px 12px;
+}
+.slider-footer p{
+    font-size: large;
+    color:var(--color-pearl);
+    letter-spacing: 0.25em;
+}
+.slider-footer button{
+    background: var(--color-dark);
+    width:144px;
+    margin:8px 8px;
+    padding:6px 12px;
+    color:var(--color-pearl);
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius:8px;
+    cursor:pointer;
+}
+/*Carousel Prototype*/
+.container > div {
+    background-color: var(--color-dark);
+    background-color: var(--color-pearl);
+    color: var(--color-pearl);
+    color: var(--color-dark);
+    border-left: 1px solid var(--color-gray);
+    border-right:1px solid var(--color-gray);
+  }
+  
+.slick-dots li.slick-active button:before {
+    color: var(--color-pearl);
+    
+  }
+  
+  .slick-prev:before,
+  .slick-next:before {
+    color: var(--color-pearl);
+    background: var(--color-dark); 
+  }
+  
+
+@media(max-width:768px){
+    .slider-body{
+        flex-direction: column-reverse;
+    }
+}
+

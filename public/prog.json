@@ -1,0 +1,15 @@
+[
+    {
+        "id":0,
+        "day":"martes",
+        "month":"junio",
+        "date":"dd/mm/yyyy",
+        "time":"hh:mm",
+        "event-name":"",
+        "place":{
+            "address":"st.# - road:#",
+            "name":"some-place"
+        }
+        
+    }
+]
