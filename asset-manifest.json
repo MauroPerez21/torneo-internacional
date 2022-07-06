@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/torneo-internacional/static/css/main.452bd012.chunk.css",
+    "main.js": "/torneo-internacional/static/js/main.b887b57c.chunk.js",
+    "main.js.map": "/torneo-internacional/static/js/main.b887b57c.chunk.js.map",
+    "runtime-main.js": "/torneo-internacional/static/js/runtime-main.2ea1fa40.js",
+    "runtime-main.js.map": "/torneo-internacional/static/js/runtime-main.2ea1fa40.js.map",
+    "static/css/2.0351bc41.chunk.css": "/torneo-internacional/static/css/2.0351bc41.chunk.css",
+    "static/js/2.daaec468.chunk.js": "/torneo-internacional/static/js/2.daaec468.chunk.js",
+    "static/js/2.daaec468.chunk.js.map": "/torneo-internacional/static/js/2.daaec468.chunk.js.map",
+    "index.html": "/torneo-internacional/index.html",
+    "static/css/2.0351bc41.chunk.css.map": "/torneo-internacional/static/css/2.0351bc41.chunk.css.map",
+    "static/css/main.452bd012.chunk.css.map": "/torneo-internacional/static/css/main.452bd012.chunk.css.map",
+    "static/js/2.daaec468.chunk.js.LICENSE.txt": "/torneo-internacional/static/js/2.daaec468.chunk.js.LICENSE.txt",
+    "static/media/Header.styles.css": "/torneo-internacional/static/media/anthem.2fad0c3a.png",
+    "static/media/brochure.155c67ea.jpg": "/torneo-internacional/static/media/brochure.155c67ea.jpg",
+    "static/media/Loading.styles.css": "/torneo-internacional/static/media/corte.0c2000dd.png",
+    "static/media/pngaaa.com-430301.2ee0f89d.png": "/torneo-internacional/static/media/pngaaa.com-430301.2ee0f89d.png",
+    "static/media/pngaaa.com-5643258.9237680c.png": "/torneo-internacional/static/media/pngaaa.com-5643258.9237680c.png",
+    "static/media/pngaaa.com-6420801.bccfcfd3.png": "/torneo-internacional/static/media/pngaaa.com-6420801.bccfcfd3.png",
+    "static/media/slick-theme.css": "/torneo-internacional/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ea1fa40.js",
+    "static/css/2.0351bc41.chunk.css",
+    "static/js/2.daaec468.chunk.js",
+    "static/css/main.452bd012.chunk.css",
+    "static/js/main.b887b57c.chunk.js"
+  ]
+}
