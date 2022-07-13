@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/torneo-internacional/static/css/main.452bd012.chunk.css",
-    "main.js": "/torneo-internacional/static/js/main.b887b57c.chunk.js",
-    "main.js.map": "/torneo-internacional/static/js/main.b887b57c.chunk.js.map",
+    "main.css": "/torneo-internacional/static/css/main.5d56b248.chunk.css",
+    "main.js": "/torneo-internacional/static/js/main.20c8cf3a.chunk.js",
+    "main.js.map": "/torneo-internacional/static/js/main.20c8cf3a.chunk.js.map",
     "runtime-main.js": "/torneo-internacional/static/js/runtime-main.2ea1fa40.js",
     "runtime-main.js.map": "/torneo-internacional/static/js/runtime-main.2ea1fa40.js.map",
     "static/css/2.0351bc41.chunk.css": "/torneo-internacional/static/css/2.0351bc41.chunk.css",
-    "static/js/2.daaec468.chunk.js": "/torneo-internacional/static/js/2.daaec468.chunk.js",
-    "static/js/2.daaec468.chunk.js.map": "/torneo-internacional/static/js/2.daaec468.chunk.js.map",
+    "static/js/2.7267cc6d.chunk.js": "/torneo-internacional/static/js/2.7267cc6d.chunk.js",
+    "static/js/2.7267cc6d.chunk.js.map": "/torneo-internacional/static/js/2.7267cc6d.chunk.js.map",
     "index.html": "/torneo-internacional/index.html",
     "static/css/2.0351bc41.chunk.css.map": "/torneo-internacional/static/css/2.0351bc41.chunk.css.map",
-    "static/css/main.452bd012.chunk.css.map": "/torneo-internacional/static/css/main.452bd012.chunk.css.map",
-    "static/js/2.daaec468.chunk.js.LICENSE.txt": "/torneo-internacional/static/js/2.daaec468.chunk.js.LICENSE.txt",
+    "static/css/main.5d56b248.chunk.css.map": "/torneo-internacional/static/css/main.5d56b248.chunk.css.map",
+    "static/js/2.7267cc6d.chunk.js.LICENSE.txt": "/torneo-internacional/static/js/2.7267cc6d.chunk.js.LICENSE.txt",
     "static/media/Header.styles.css": "/torneo-internacional/static/media/anthem.2fad0c3a.png",
     "static/media/brochure.155c67ea.jpg": "/torneo-internacional/static/media/brochure.155c67ea.jpg",
     "static/media/Loading.styles.css": "/torneo-internacional/static/media/corte.0c2000dd.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.2ea1fa40.js",
     "static/css/2.0351bc41.chunk.css",
-    "static/js/2.daaec468.chunk.js",
-    "static/css/main.452bd012.chunk.css",
-    "static/js/main.b887b57c.chunk.js"
+    "static/js/2.7267cc6d.chunk.js",
+    "static/css/main.5d56b248.chunk.css",
+    "static/js/main.20c8cf3a.chunk.js"
   ]
 }
