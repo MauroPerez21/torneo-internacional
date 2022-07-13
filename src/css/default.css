@@ -7,7 +7,7 @@
   --color-concrete:#bfbfbf;
   --color-pearl:#fff;
   --color-primary:#0066ff;
-  --color-success:#00b300;
+  --color-success:rgb(0, 255, 179);
   --color-primary-dark:#001d4d;
   --color-secondary:#ff9933;
   --color-danger:#ff1a1a;
@@ -121,7 +121,7 @@ button.active{
   left:0;
   width:100vw;
   height:100vh;
-  z-index:0;
+  z-index:9999;
 }
 .centered {
   position: fixed;

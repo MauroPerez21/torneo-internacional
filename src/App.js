@@ -9,6 +9,7 @@ import WppButton from './components/layout/whatsapp'
 import TopButton from './components/layout/topbutton'
 import FsImage from './components/galeria/Fsimage'
 import Footer from './components/layout/footer'
+import FetchComponent from './components/FetchComp'
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 
 function App() {
@@ -18,7 +19,7 @@ function App() {
      <TopButton/>
       <Menu/>
       <Switch>
-          <Route path="/" exact component={Inicio}/>
+          <Route path="/" exact component={FetchComponent}/>
           <Route path="/inicio" component={Inicio}/>
           <Route path="/eventos" component={Eventos}/>
           <Route path="/lugares" component={Guia}/>

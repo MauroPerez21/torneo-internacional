@@ -4,7 +4,7 @@
     height: 240px;
     background: var(--color-dark);
     color: white;
-    z-index: 99999;
+    z-index: 9999;
 
     border-radius: 8px;
     box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.04);
@@ -105,6 +105,14 @@
   }
   
   
+  .callBtn a{
+    text-decoration: none;
+    color:white;
+  }
+  .wppBtn a{
+    text-decoration: none;
+    color:black;
+  }
   .callBtn:hover {
     box-shadow: 0 10px 20px -10px rgba(255, 62, 78, 0.6);
     transform: translateY(-5px);

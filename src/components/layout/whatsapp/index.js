@@ -26,7 +26,7 @@ const Wpp = () => {
     className="fixed-wpp"
       ref={button}
       onMouseOver={setShow}
-      ><a href="https://api.whatsapp.com/send?phone=+573106323631" className="icon-wpp">
+      ><a href="https://api.whatsapp.com/send?phone=+3013820618" className="icon-wpp">
         <RiWhatsappFill/>
           
           </a>

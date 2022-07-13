@@ -8,6 +8,10 @@ export default function useArray(defaultValue){
         setArray(filtered)
         return array
     }
-
-    return { filterSome }
+    function filterAll(all){
+        const filtered = defaultValue.filter((some)=> some.category !== all )
+        setArray(filtered)
+        return array
+    }
+    return { filterSome, filterAll }
 }

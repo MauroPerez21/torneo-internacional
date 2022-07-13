@@ -112,7 +112,7 @@ transition:.4s linear;
     right:80%;
 }
 .btn-banner:hover{
-    color:var(--deepcolor);
+    color:var(--color-gray);
 }
 .curly{
   display:flex;

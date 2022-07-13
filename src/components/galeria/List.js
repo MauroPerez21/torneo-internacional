@@ -1,12 +1,18 @@
 import { RiFullscreenLine, RiImage2Line } from 'react-icons/ri';
 import { Link } from 'react-router-dom'
- 
+import { motion} from "framer-motion/dist/framer-motion";
 const List = ({blogs}) =>{  
     return( 
       <div className="card">
         {blogs.map(blog=>(
 
-<div className="card-container" key={blog.id}>
+<motion.div 
+  animate={{opacity:1, scale:1}} 
+  initial={{opacity:0, scale:0}} 
+  exit={{opacity:0, scale:0}}
+  transition={{duration:1}}
+  layout 
+className="card-container" key={blog.id}>
 <div className="card">
  <div className="zcard-header">
     <h4>
@@ -28,7 +34,7 @@ const List = ({blogs}) =>{
      </button>
  </div>
 </div> 
-</div>
+</motion.div>
 
         ))}  
       </div>
